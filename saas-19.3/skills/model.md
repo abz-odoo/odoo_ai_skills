@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Model Guide
 
 Reference for the ORM, recordsets, CRUD, domains, and SQL in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/orm/models.py` and related files.
+Source of truth: `~/src/193/odoo/odoo/orm/models.py` and related files.
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `_name` can be omitted — auto-derived from CamelCase class name (with deprecation warning; **still set it explicitly**)

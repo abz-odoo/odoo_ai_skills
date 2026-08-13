@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Translation Guide
 
 Reference for i18n / translation in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/tools/translate.py` and `odoo/orm/environments.py`
+Source of truth: `~/src/193/odoo/odoo/tools/translate.py` and `odoo/orm/environments.py`
 
 > **SaaS-19.3 key points**
 > - Translatable fields stored as **JSONB** `{'en_US': '...', 'fr_FR': '...'}` — no `ir.translation` table

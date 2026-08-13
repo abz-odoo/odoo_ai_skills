@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Data Files Guide
 
 Reference for XML and CSV data files in the SaaS-19.3 codebase.
-Source of truth: `/home/achraf/src/193/odoo/odoo/tools/convert.py`
+Source of truth: `~/src/193/odoo/odoo/tools/convert.py`
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `<field search="...">` gained a `use` attribute to extract a specific field from search results

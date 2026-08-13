@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Development Guide
 
 Reference for module structure, creation patterns, security, and wizards in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/` and `/home/achraf/src/193/enterprise/`
+Source of truth: `~/src/193/odoo/` and `~/src/193/enterprise/`
 
 > **SaaS-19.3 notes vs generic Odoo 19**
 > - View tag `<list>` replaces `<tree>` (since Odoo 17) — never use `<tree>` in SaaS-19.3

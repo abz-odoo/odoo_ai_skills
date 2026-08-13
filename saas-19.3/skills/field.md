@@ -1,8 +1,8 @@
 # Odoo SaaS-19.3 Field Guide
 
 Reference for field types and parameters in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/orm/fields*.py`
-Exports: `/home/achraf/src/193/odoo/odoo/fields/__init__.py`
+Source of truth: `~/src/193/odoo/odoo/orm/fields*.py`
+Exports: `~/src/193/odoo/odoo/fields/__init__.py`
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `fields.Json` — new field backed by PostgreSQL `jsonb`

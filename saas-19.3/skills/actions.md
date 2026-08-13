@@ -1,8 +1,8 @@
 # Odoo SaaS-19.3 Actions Guide
 
 Reference for `ir.actions.*` in the SaaS-19.3 codebase.
-Source of truth: `/home/achraf/src/193/odoo/odoo/addons/base/models/ir_actions.py`
-and `/home/achraf/src/193/odoo/odoo/addons/base/models/ir_cron.py`
+Source of truth: `~/src/193/odoo/odoo/addons/base/models/ir_actions.py`
+and `~/src/193/odoo/odoo/addons/base/models/ir_cron.py`
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `ir.actions.server` gains a `webhook` state and an `object_copy` state

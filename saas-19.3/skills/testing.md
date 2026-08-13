@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Testing Guide
 
 Reference for writing tests in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/tests/common.py`
+Source of truth: `~/src/193/odoo/odoo/tests/common.py`
 
 > **SaaS-19.3 key additions**
 > - `MockHTTPClient` — built-in HTTP request mocking (new)

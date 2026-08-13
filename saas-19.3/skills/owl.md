@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 OWL Guide
 
 Reference for the OWL 2 JavaScript component framework used in Odoo SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/addons/web/static/src/`
+Source of truth: `~/src/193/odoo/addons/web/static/src/`
 
 > **SaaS-19.3 uses OWL 2.0.1** (`@odoo/owl: "^2.0.1"`)
 > - Hooks-only API: no more `willStart()`, `mounted()` instance methods → use `onWillStart()`, `onMounted()` in `setup()`

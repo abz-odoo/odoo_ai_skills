@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Mixins Guide
 
 Reference for Odoo mixins in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/addons/mail/models/`
+Source of truth: `~/src/193/odoo/addons/mail/models/`
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `mail.alias.mixin.optional` is a new distinct variant (alias is optional)

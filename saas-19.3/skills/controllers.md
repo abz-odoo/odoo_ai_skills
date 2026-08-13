@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 HTTP Controllers Guide
 
 Reference for writing HTTP controllers in the SaaS-19.3 codebase.
-Source of truth: `/home/achraf/src/193/odoo/odoo/http.py`
+Source of truth: `~/src/193/odoo/odoo/http.py`
 
 > **SaaS-19.3 differences vs generic Odoo 18/19**
 > - `auth='bearer'` is a new auth type for machine-to-machine API endpoints

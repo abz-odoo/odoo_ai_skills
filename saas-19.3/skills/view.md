@@ -1,8 +1,8 @@
 # Odoo SaaS-19.3 Views Guide
 
 Reference for all view types in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/addons/base/models/ir_ui_view.py`
-and `/home/achraf/src/193/odoo/addons/sale/views/sale_order_views.xml`
+Source of truth: `~/src/193/odoo/odoo/addons/base/models/ir_ui_view.py`
+and `~/src/193/odoo/addons/sale/views/sale_order_views.xml`
 
 > **SaaS-19.3 breaking changes vs Odoo 17/18**
 > - `<tree>` is **dead** — use `<list>` (using `attrs=` or `states=` raises a `ValidationError`)

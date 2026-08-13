@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Security Guide
 
 Reference for access control (ACLs), record rules, groups, and sudo() in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/addons/base/models/`
+Source of truth: `~/src/193/odoo/odoo/addons/base/models/`
 
 > **SaaS-19.3 key notes**
 > - Global rules (no `group_id`) are **deprecated** — log a warning; always specify a group

@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Migration Guide
 
 Reference for writing migration scripts in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/modules/migration.py`
+Source of truth: `~/src/193/odoo/odoo/modules/migration.py`
 
 > **SaaS-19.3 notes vs generic Odoo 19**
 > - Version string is `saas~19.3` (not `19.0`) — affects version comparisons

@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Reports Guide
 
 Reference for QWeb PDF and HTML reports in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/addons/base/models/ir_actions_report.py`
+Source of truth: `~/src/193/odoo/odoo/addons/base/models/ir_actions_report.py`
 
 > **SaaS-19.3 key addition**
 > - `css_margins` field on `report.paperformat` — use CSS margins instead of wkhtmltopdf arguments (more flexible, responsive)

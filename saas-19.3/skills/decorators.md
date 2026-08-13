@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 API Decorators Guide
 
 Reference for `@api.*` decorators in the SaaS-19.3 codebase.
-Source of truth: `/home/achraf/src/193/odoo/odoo/api/decorators.py`
+Source of truth: `~/src/193/odoo/odoo/api/decorators.py`
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `@api.depends_context` is **new** — explicitly declares context keys that trigger recomputation

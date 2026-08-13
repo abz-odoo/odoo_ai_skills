@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Performance Guide
 
 Reference for ORM performance, caching, and query optimisation in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/orm/` and `/home/achraf/src/193/odoo/addons/web/models/`
+Source of truth: `~/src/193/odoo/odoo/orm/` and `~/src/193/odoo/addons/web/models/`
 
 > **SaaS-19.3 key additions**
 > - `search_fetch()` — combined search + prefetch in one call (replaces search + read pattern)

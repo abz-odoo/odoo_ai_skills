@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Manifest Guide
 
 Reference for `__manifest__.py` in SaaS-19.3 modules.
-Source of truth: `/home/achraf/src/193/odoo/odoo/modules/module.py`
+Source of truth: `~/src/193/odoo/odoo/modules/module.py`
 
 > **SaaS-19.3 differences vs generic Odoo 19**
 > - `post_load` hook: runs after module load, before any model/data init (server-wide, non-registry)

@@ -1,7 +1,7 @@
 # Odoo SaaS-19.3 Transaction Guide
 
 Reference for transaction management, savepoints, and cursor callbacks in SaaS-19.3.
-Source of truth: `/home/achraf/src/193/odoo/odoo/sql_db.py` and `odoo/orm/environments.py`
+Source of truth: `~/src/193/odoo/odoo/sql_db.py` and `odoo/orm/environments.py`
 
 > **SaaS-19.3 key additions**
 > - `_commit_progress(processed, remaining, deactivate)` — cron batch progress + commit (new)
